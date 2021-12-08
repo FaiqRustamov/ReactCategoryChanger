@@ -1,0 +1,90 @@
+{
+"products":[
+    {
+        "id":1,
+        "categoryId":2,
+        "productName":"Chai",
+        "quantityPerUnit":"48-6 oz jars",
+        "unitPrice":"23",
+        "unitsInStock":53
+    },
+    {
+        "id":2,
+        "categoryId":1,
+        "productName":"Chang",
+        "quantityPerUnit":"24-12 oz jars",
+        "unitPrice":"21",
+        "unitsInStock":17
+    },
+    {
+        "id":4,
+        "categoryId":1,
+        "productName":"Chef Anton's Cajun Seasoning",
+        "quantityPerUnit":"48- 6 oz jars",
+        "unitPrice":"23",
+        "unitsInStock":12
+    },
+    {
+        "id":17,
+        "categoryId":2,
+        "productName":"Antuan Chang's Cajun Seasoning",
+        "quantityPerUnit":"21- 4 oz jars",
+        "unitPrice":"46",
+        "unitsInStock":102
+    },
+    {
+        "id":4,
+        "categoryId":1,
+        "productName":"Asda Anton's Cajun Seasoning",
+        "quantityPerUnit":"500 ml",
+        "unitPrice":"23",
+        "unitsInStock":12
+    },
+    {
+        "id":4,
+        "categoryId":3,
+        "productName":"Chef Jaun's Mares Seasoning",
+        "quantityPerUnit":"12 boxes",
+        "unitPrice":"23",
+        "unitsInStock":22
+    },
+    {
+        "id":4,
+        "categoryId":3,
+        "productName":"Chef Despa's Aros Measaning",
+        "quantityPerUnit":"48- 6 oz jars",
+        "unitPrice":"23",
+        "unitsInStock":1
+    }
+],
+"categories":[
+    {
+        "id":1,
+        "categoryName":"Beverages",
+        "seoUrl":"beverages"
+    },
+    {
+        "id":2,
+        "categoryName":"Condiments",
+        "seoUrl":"condiments"
+    },
+    {
+        "id":3,
+        "categoryName":"Confetions",
+        "seoUrl":"confetions"
+    },
+    {
+        "id":4,
+        "categoryName":"Dairy Products",
+        "seoUrl":"dairy-products"
+    },
+    {
+        "id":5,
+        "categoryName":"Grains/Cereals",
+        "seoUrl":"grains-cereals"
+    }
+
+]
+
+
+}
